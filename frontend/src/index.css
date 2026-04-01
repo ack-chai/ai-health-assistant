@@ -1,0 +1,32 @@
+/* reset + base styles */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #020617;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* scrollbar styling (nice touch) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #22c55e;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #020617;
+}
