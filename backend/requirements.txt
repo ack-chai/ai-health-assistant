@@ -4,3 +4,4 @@ numpy
 joblib
 groq
 python-dotenv
+scikit-learn
