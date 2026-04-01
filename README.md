@@ -1,4 +1,6 @@
 🧠 AI Health Assistant with Predictive Insights
+
+
 🚀 Overview
 
 This project is an AI-powered healthcare assistant that analyzes user symptoms and provides predictive insights using a combination of Machine Learning and Generative AI.
