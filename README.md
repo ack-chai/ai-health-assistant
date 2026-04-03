@@ -7,6 +7,8 @@ This project is an AI-powered healthcare assistant that analyzes user symptoms a
 
 It allows users to interact through a chat interface, receive medical explanations, and view disease risk predictions based on structured health parameters.
 
+refer the following link for accessing the app- which is deployed on render: https://ai-health-assistant-2-9ecl.onrender.com/
+
 ✨ Features
 💬 Chat-based interface for symptom input
 🧠 AI-powered explanation using LLM (Groq API)
